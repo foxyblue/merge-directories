@@ -20,3 +20,5 @@ result/
 - `file_a` is overwritten
 - `file_b` is not changed
 - `file_c` is added
+
+`dir1` is overwritten with the result.
